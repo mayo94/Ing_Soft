@@ -1,0 +1,6 @@
+C:\Users\Mayo\Desktop\Codificador\Codificador\bin\Debug\Codificador.exe.config
+C:\Users\Mayo\Desktop\Codificador\Codificador\obj\Debug\Codificador.csprojResolveAssemblyReference.cache
+C:\Users\Mayo\Desktop\Codificador\Codificador\bin\Debug\Codificador.exe
+C:\Users\Mayo\Desktop\Codificador\Codificador\bin\Debug\Codificador.pdb
+C:\Users\Mayo\Desktop\Codificador\Codificador\obj\Debug\Codificador.exe
+C:\Users\Mayo\Desktop\Codificador\Codificador\obj\Debug\Codificador.pdb
