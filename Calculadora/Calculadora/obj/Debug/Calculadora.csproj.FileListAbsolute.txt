@@ -1,0 +1,18 @@
+D:\GUTY\Documents\onedrive\espoch\6to\ingenieria de software\tareas en clase\claculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\GUTY\Documents\onedrive\espoch\6to\ingenieria de software\tareas en clase\claculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\GUTY\Documents\onedrive\espoch\6to\ingenieria de software\tareas en clase\claculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\GUTY\Documents\onedrive\espoch\6to\ingenieria de software\tareas en clase\claculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\GUTY\Documents\onedrive\espoch\6to\ingenieria de software\tareas en clase\claculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\GUTY\Documents\onedrive\espoch\6to\ingenieria de software\tareas en clase\claculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+F:\claculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+F:\claculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+F:\claculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+F:\claculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+F:\claculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+F:\claculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+H:\claculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+H:\claculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+H:\claculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+H:\claculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+H:\claculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+H:\claculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
